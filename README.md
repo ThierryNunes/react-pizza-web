@@ -11,7 +11,7 @@
   <img alt="Pizzaria" src=".github/pizza.png" width="100%">
 </p>
 
-## 🚀 Tecnologias (Tecnologies)
+## 🚀 Tecnologias (Technologies)
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
