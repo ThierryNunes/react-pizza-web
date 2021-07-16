@@ -18,8 +18,6 @@ Front-end destinado à vendas on-line de uma Pizzaria (Front-end for online sale
 
 Você pode visualizar o layout do projeto através [desse link](<https://www.figma.com/file/2TUJx9OIqzwER8y3PeEu8Z/Pizza?node-id=0%3A1>). Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-<br>
-
 You can view the project layout through [this link](<https://www.figma.com/file/2TUJx9OIqzwER8y3PeEu8Z/Pizza?node-id=0%3A1>). Remembering that you need to have an account at [Figma](http://figma.com/) to access it.
 
 ## ℹ️ Como usar (How To Use)
