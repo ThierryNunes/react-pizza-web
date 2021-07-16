@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="Pizzaria" src=".github/pizza.png" width="100%">
+  <img alt="Pizzaria" src="pizza.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias (Technologies)
